@@ -2,8 +2,8 @@
 
 Hi there! This documentation is a snapshot of my projects in the data field, showcasing my skills and experience.
 
-**Table of Contents**:
-- 📚 Data Science
+**📚 Table of Contents**:
+  - Data Science
   - Python: Data Analysis and Machine Learning
   - Deep Learning
   - NLP
