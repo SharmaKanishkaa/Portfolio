@@ -9,14 +9,18 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
   - NLP
   - Dashboard
   - Completed Courses and Certifications
+---
 
+---
 ### 📂 **Data Science**:
 
 | Project Link | Tools | Project Description |
 |--------------|-------|---------------------|
 | [Paris 2024 Olympics Data Analysis](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis) | Power BI | Developed an interactive Power BI dashboard to visualize and analyze Olympic data, focusing on medal distribution, country performances, and trends. |
 | [Data Science for Business Case Studies](https://github.com/SharmaKanishkaa/Data-Science-for-Business-Case-Studies) | Python, Jupyter | Case studies illustrating the application of data science in solving business problems, including forecasting, classification, and regression techniques. |
+---
 
+---
 ### 📂 **Python: Data Analysis and Machine Learning**:
 
 | Project Link | Area | Library | Project Description |
@@ -29,7 +33,9 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
 | [Diabetes Prediction with EDA and Naive Bayes](https://github.com/SharmaKanishkaa/Diabetes-Prediction-with-EDA-and-Naive-Bayes-) | Classification | pandas, matplotlib, scikit-learn | Used exploratory data analysis (EDA) and Naive Bayes to predict diabetes, obtaining an accuracy of 82%. |
 | [Palmer Penguins Classification with Logistic Regression](https://github.com/SharmaKanishkaa/Palmer-Penguins-Classification-with-Logistic-Regression) | Classification | scikit-learn, pandas, seaborn | Applied Logistic Regression to classify penguin species using the Palmer Penguins dataset, achieving 92% accuracy. |
 | [Customer Segmentation using Unsupervised Clustering](https://github.com/SharmaKanishkaa/Customer-Segmentation-Using-Unsupervised-Clustering) | Unsupervised Learning - Clustering | scikit-learn | Clustered customers based on features using K-means, DBSCAN, and Hierarchical methods to identify distinct customer segments and improve targeted marketing strategies. |
+---
 
+---
 ### 📂 **Deep Learning**:
 
 | Project Link | Area | Library | Project Description |
@@ -40,7 +46,9 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
 | [Hinglish-to-Hindi Neural Translator](https://github.com/SharmaKanishkaa/Hinglish-to-Hindi-Neural-Translator) | Neural Machine Translation | PyTorch | Built a transformer-based neural network model for Hinglish-to-Hindi translation, achieving competitive BLEU scores. |
 | [Film-Verse](https://github.com/SharmaKanishkaa/Film-Verse) | Streamlit, Recommendation Systems | Built a personalized movie recommendation system for film enthusiasts, providing curated film suggestions based on user preferences and viewing history. |
 | [Prophet Forecasting Application](https://github.com/SharmaKanishkaa/Prophet-Forecasting-Application) | Streamlit, Facebook Prophet | Designed a forecasting web application enabling real-time data uploads, trend visualization, and accurate predictions using the Prophet and Informer Transformer models. |
+---
 
+---
 ### 📂 **Natural Language Processing (NLP)**:
 
 | Project Link | Area | Library | Project Description |
@@ -48,14 +56,18 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
 | [Multilingual Toxic Comment Classification Model](https://github.com/SharmaKanishkaa/Multilingual-Toxic-Comment-Classification-Model) | Classification | Hugging Face Transformers | Built a multilingual model using BERT to classify toxic comments in multiple languages with an accuracy of 91%. |
 | [Analyzing Spooky Authors with NLP](https://github.com/SharmaKanishkaa/Analyzing-Spooky-Authors-with-NLP) | Text Classification | scikit-learn, pandas, NLTK | Performed topic modeling and text analysis on spooky authors' work, using TF-IDF and Naive Bayes for classification. |
 | [MedicReport: Gen-AI Powered Medical Report Analyzer](https://github.com/SharmaKanishkaa/MedicReport) | Text Analysis, NLP | BioBERT, ClinicalBERT, SciBERT | Developed a medical report analysis tool using multiple BERT models (BioBERT, ClinicalBERT, SciBERT) for entity recognition, simplification, and classification of medical reports. |
+---
 
+---
 ### 📂 **Dashboard**:
 
 | Project Link | Tools | Project Description |
 |--------------|-------|---------------------|
 | [Paris 2024 Olympics Data Analysis](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis) | Power BI | Created an interactive Power BI dashboard visualizing Olympic data, such as medal distribution, performance analysis, and country comparisons. |
 | [Human Resource Attrition Analysis (EDA)](https://github.com/SharmaKanishkaa/HR-Analytics-with-Decision-Trees-Random-Forest-) | Power BI | Conducted an analysis of HR data to identify factors influencing employee attrition, presenting the insights in Tableau. |
+---
 
+---
 ### 📂 **Completed Courses and Certifications**
 - **AI4ICPS Certificate Programme** by IIT Kharagpur on TCS iON  
 - **IBM Data Science** by IBM on Coursera  
