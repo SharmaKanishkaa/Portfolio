@@ -11,7 +11,7 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
   - Completed Courses and Certifications
 ---
 
----
+
 ### 📂 **Data Science**:
 
 | Project Link | Tools | Project Description |
@@ -20,7 +20,7 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
 | [Data Science for Business Case Studies](https://github.com/SharmaKanishkaa/Data-Science-for-Business-Case-Studies) | Python, Jupyter | Case studies illustrating the application of data science in solving business problems, including forecasting, classification, and regression techniques. |
 ---
 
----
+
 ### 📂 **Python: Data Analysis and Machine Learning**:
 
 | Project Link | Area | Library | Project Description |
@@ -48,7 +48,7 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
 | [Prophet Forecasting Application](https://github.com/SharmaKanishkaa/Prophet-Forecasting-Application) | Streamlit, Facebook Prophet | Designed a forecasting web application enabling real-time data uploads, trend visualization, and accurate predictions using the Prophet and Informer Transformer models. |
 ---
 
----
+
 ### 📂 **Natural Language Processing (NLP)**:
 
 | Project Link | Area | Library | Project Description |
@@ -58,7 +58,7 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
 | [MedicReport: Gen-AI Powered Medical Report Analyzer](https://github.com/SharmaKanishkaa/MedicReport) | Text Analysis, NLP | BioBERT, ClinicalBERT, SciBERT | Developed a medical report analysis tool using multiple BERT models (BioBERT, ClinicalBERT, SciBERT) for entity recognition, simplification, and classification of medical reports. |
 ---
 
----
+
 ### 📂 **Dashboard**:
 
 | Project Link | Tools | Project Description |
@@ -67,7 +67,7 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
 | [Human Resource Attrition Analysis (EDA)](https://github.com/SharmaKanishkaa/HR-Analytics-with-Decision-Trees-Random-Forest-) | Power BI | Conducted an analysis of HR data to identify factors influencing employee attrition, presenting the insights in Tableau. |
 ---
 
----
+
 ### 📂 **Completed Courses and Certifications**
 - **AI4ICPS Certificate Programme** by IIT Kharagpur on TCS iON  
 - **IBM Data Science** by IBM on Coursera  
