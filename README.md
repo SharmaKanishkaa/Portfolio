@@ -44,8 +44,8 @@ Hi there! This documentation is a snapshot of my projects in the data field, sho
 | [Stock Market Analysis and Prediction using LSTM](https://github.com/SharmaKanishkaa/Stock-Market-Analysis-and-Prediction-using-LSTM) | Time Series Forecasting | Keras, pandas, NumPy | Built an LSTM model for stock price prediction, improving the forecast accuracy by tuning hyperparameters and training on large datasets. |
 | [Weather Prediction using RNN](#) | Time Series Forecasting | TensorFlow, Keras | Developed an RNN model to predict weather conditions, using historical weather data for time series forecasting. |
 | [Hinglish-to-Hindi Neural Translator](https://github.com/SharmaKanishkaa/Hinglish-to-Hindi-Neural-Translator) | Neural Machine Translation | PyTorch | Built a transformer-based neural network model for Hinglish-to-Hindi translation, achieving competitive BLEU scores. |
-| [Film-Verse](https://github.com/SharmaKanishkaa/Film-Verse) | Streamlit, Recommendation Systems | Built a personalized movie recommendation system for film enthusiasts, providing curated film suggestions based on user preferences and viewing history. |
-| [Prophet Forecasting Application](https://github.com/SharmaKanishkaa/Prophet-Forecasting-Application) | Streamlit, Facebook Prophet | Designed a forecasting web application enabling real-time data uploads, trend visualization, and accurate predictions using the Prophet and Informer Transformer models. |
+| [Film-Verse](https://github.com/SharmaKanishkaa/Film-Verse) | Streamlit, Recommendation Systems | |Built a personalized movie recommendation system for film enthusiasts, providing curated film suggestions based on user preferences and viewing history. |
+| [Prophet Forecasting Application](https://github.com/SharmaKanishkaa/Prophet-Forecasting-Application) | Streamlit, Facebook Prophet | |Designed a forecasting web application enabling real-time data uploads, trend visualization, and accurate predictions using the Prophet and Informer Transformer models. |
 ---
 
 
