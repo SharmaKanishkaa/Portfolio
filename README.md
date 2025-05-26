@@ -76,18 +76,17 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 | [HR Attrition EDA](https://github.com/SharmaKanishkaa/HR-Analytics-with-Decision-Trees-Random-Forest-) | Power BI | Visual exploration of HR data for attrition patterns and employee insights. |
 
 ---
-
 ### 📜 **Courses and Certifications**
 
 | Course Title                                                                                                                                           | Platform  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| [AI4ICPS Certificate Programme by IIT Kharagpur](https://drive.google.com/drive/folders/1oimwoz7k9GtjYfGM6MMzEZB06NWqA_TD)                             | TCS iON   |
-| [SQL Fundamentals](https://drive.google.com/drive/folders/1oimwoz7k9GtjYfGM6MMzEZB06NWqA_TD)                                                           | Dataquest |
+| [AI4ICPS Certificate Programme by IIT Kharagpur](https://drive.google.com/file/d/1tm24cD4v-xjq3MJHq-cMHENpKgobwurF/view?usp=sharing)                   | TCS iON   |
+| [SQL Fundamentals](https://drive.google.com/file/d/10O1ysgYGBFu_r8lmHPPjb-6WB9Ji000Y/view?usp=sharing)                                                 | Dataquest |
 | [IBM Data Science Professional Certificate](https://drive.google.com/file/d/1bprY76tzEwu07MdLVDDUPD1Lghfro2yO/view?usp=sharing)                        | Coursera  |
 | [Machine Learning by Stanford University & DeepLearning.AI](https://drive.google.com/file/d/1VoRuuKV8FFWFUMfwTXYXpUUUkfygwO8D/view?usp=sharing)        | Coursera  |
 | [Neural Networks and Deep Learning by DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/Neural-Networks-and-Deep-Learning) | Coursera  |
 | [TensorFlow 2.0: Deep Learning and Artificial Intelligence](https://drive.google.com/file/d/1t1zc2pD8KP_64OWqpqugQAjwPnHGvFLu/view?usp=sharing)        | Udemy     |
 | [Python for Machine Learning & Data Science Masterclass](https://drive.google.com/file/d/1Djy_rhD3ur3xCJEWVaR2Ko2sHvZmPg-l/view?usp=sharing)           | Udemy     |
 | [Recommender Systems and Deep Learning in Python](https://drive.google.com/file/d/1GhvVgO7u7NP2I4xXJ__WgZlseELSj7Uq/view?usp=sharing)                  | Udemy     |
-| [Microsoft Power BI Desktop for Business Intelligence](https://drive.google.com/drive/folders/1oimwoz7k9GtjYfGM6MMzEZB06NWqA_TD)                       | Udemy     |
+| [Microsoft Power BI Desktop for Business Intelligence](https://drive.google.com/file/d/1_dcQJSNeIWKCFWgz5-8IsH5rPnB6E9Zj/view?usp=sharing)             | Udemy     |
 | [A Deep Understanding of Deep Learning](https://drive.google.com/file/d/1AQ0uOloDhp7RyHlOni1qC1bC0Fn97di9/view?usp=sharing)                            | Udemy     |
