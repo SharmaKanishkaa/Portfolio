@@ -1,82 +1,93 @@
 # **Kanishka's Project Portfolio**
 
-Hi there! This documentation is a snapshot of my projects in the data field, showcasing my skills and experience.
+Hi there! This documentation is a snapshot of my projects in the data and AI space, showcasing my skills across data engineering, machine learning, NLP, and dashboarding.
 
 **📚 Table of Contents**:
-  - Data Science
-  - Python: Data Analysis and Machine Learning
-  - Deep Learning
-  - NLP
-  - Dashboard
-  - Completed Courses and Certifications
----
 
-
-### 📂 **Data Science**:
-
-| Project Link | Tools | Project Description |
-|--------------|-------|---------------------|
-| [Paris 2024 Olympics Data Analysis](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis) | Power BI | Developed an interactive Power BI dashboard to visualize and analyze Olympic data, focusing on medal distribution, country performances, and trends. |
-| [Data Science for Business Case Studies](https://github.com/SharmaKanishkaa/Data-Science-for-Business-Case-Studies) | Python, Jupyter | Case studies illustrating the application of data science in solving business problems, including forecasting, classification, and regression techniques. |
----
-
-
-### 📂 **Python: Data Analysis and Machine Learning**:
-
-| Project Link | Area | Library | Project Description |
-|--------------|------|---------|---------------------|
-| [HR Analytics with Decision Trees & Random Forest](https://github.com/SharmaKanishkaa/HR-Analytics-with-Decision-Trees-Random-Forest-) | Supervised Learning - Classification | Scikit-learn, pandas, matplotlib | Developed a machine learning model using Decision Trees and Random Forests to predict employee attrition based on HR data, achieving an accuracy of 85%. |
-| [Gender Recognition by Voice Using SVM](https://github.com/SharmaKanishkaa/Gender-Recognition-by-Voice-Using-SVM) | Supervised Learning - Classification | scikit-learn, librosa | Built an SVM model to classify gender based on voice data, achieving a classification accuracy of 92%. |
-| [Lung Disease Prediction with Boosting](https://github.com/SharmaKanishkaa/Lung-Disease-Prediction-with-Boosting) | Supervised Learning - Classification | XGBoost, pandas, scikit-learn | Developed a model using XGBoost to predict lung diseases, with a focus on improving prediction accuracy using hyperparameter tuning and boosting techniques. |
-| [Vehicle Price Prediction with Linear Regression](https://github.com/SharmaKanishkaa/Vehicle-Price-Prediction-with-Linear-Regression-and-Regularization-) | Regression | pandas, scikit-learn, seaborn | Implemented Linear Regression to predict vehicle prices, optimizing performance with regularization techniques like Lasso and Ridge. |
-| [Cancer Prediction from KNN to ANN](https://github.com/SharmaKanishkaa/Cancer-Prediction-from-KNN-to-ANN) | Classification | scikit-learn, keras, pandas | Experimented with KNN, Logistic Regression, and ANN models to predict cancer diagnosis, achieving 87% accuracy with ANN. |
-| [Diabetes Prediction with EDA and Naive Bayes](https://github.com/SharmaKanishkaa/Diabetes-Prediction-with-EDA-and-Naive-Bayes-) | Classification | pandas, matplotlib, scikit-learn | Used exploratory data analysis (EDA) and Naive Bayes to predict diabetes, obtaining an accuracy of 82%. |
-| [Palmer Penguins Classification with Logistic Regression](https://github.com/SharmaKanishkaa/Palmer-Penguins-Classification-with-Logistic-Regression) | Classification | scikit-learn, pandas, seaborn | Applied Logistic Regression to classify penguin species using the Palmer Penguins dataset, achieving 92% accuracy. |
-| [Customer Segmentation using Unsupervised Clustering](https://github.com/SharmaKanishkaa/Customer-Segmentation-Using-Unsupervised-Clustering) | Unsupervised Learning - Clustering | scikit-learn | Clustered customers based on features using K-means, DBSCAN, and Hierarchical methods to identify distinct customer segments and improve targeted marketing strategies. |
----
+* AI & GenAI Projects
+* Data Science & Analytics
+* Machine Learning Projects
+* Deep Learning
+* Natural Language Processing (NLP)
+* Dashboards
+* Completed Courses and Certifications
 
 ---
-### 📂 **Deep Learning**:
 
-| Project Link | Area | Library | Project Description |
-|--------------|------|---------|---------------------|
-| [Tomato Leaf Disease Prediction using CNN](https://github.com/SharmaKanishkaa/Tomato-Leaf-Disease-Prediction-using-CNN) | Image Classification | TensorFlow, Keras | Developed a CNN model to classify tomato leaf diseases with an accuracy of 96%, using image data augmentation for model improvement. |
-| [Stock Market Analysis and Prediction using LSTM](https://github.com/SharmaKanishkaa/Stock-Market-Analysis-and-Prediction-using-LSTM) | Time Series Forecasting | Keras, pandas, NumPy | Built an LSTM model for stock price prediction, improving the forecast accuracy by tuning hyperparameters and training on large datasets. |
-| [Weather Prediction using RNN](#) | Time Series Forecasting | TensorFlow, Keras | Developed an RNN model to predict weather conditions, using historical weather data for time series forecasting. |
-| [Hinglish-to-Hindi Neural Translator](https://github.com/SharmaKanishkaa/Hinglish-to-Hindi-Neural-Translator) | Neural Machine Translation | PyTorch | Built a transformer-based neural network model for Hinglish-to-Hindi translation, achieving competitive BLEU scores. |
-| [Film-Verse](https://github.com/SharmaKanishkaa/Film-Verse) | Recommendation Systems |Python, Streamlit, Deep Learning |Built a personalized movie recommendation system for film enthusiasts, providing curated film suggestions based on user preferences and viewing history. |
-| [Prophet Forecasting Application](https://github.com/SharmaKanishkaa/Prophet-Forecasting-Application) | Time Series Forecasting |Python, Pandas, Numpy, Scikit-Learn, Facebook Prophet, Streamlit|Designed a forecasting web application enabling real-time data uploads, trend visualization, and accurate predictions using the Prophet and Informer Transformer models. |
+### 🤖 **AI & GenAI Projects**
+
+| Project Link                                                                                                                                | Area                        | Tech Stack                                           | Description                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [AI-Summarization-and-QnA-for-Youtube-and-Wikipedia](https://github.com/SharmaKanishkaa/AI-Summarization-and-QnA-for-Youtube-and-Wikipedia) | Educational NLP Assistant   | Python, Transformers, SpeechRecognition, HuggingFace | Summarizes YouTube/Wikipedia content and generates Q\&A pairs to simplify complex learning topics.                     |
+| [LLM-Powered-Booking-Analytics-QA-System](https://github.com/SharmaKanishkaa/LLM-Powered-Booking-Analytics-QA-System)                       | Analytics + RAG             | Python, LangChain, FAISS, HuggingFace                | A retrieval-augmented QA system that uses LLMs to answer natural language queries on hotel booking data.               |
+| [MedicReport](https://github.com/SharmaKanishkaa/MedicReport) *(Private)*                                                                   | Medical GenAI               | BioBERT, ClinicalBERT, Pinecone, LLaMA               | Medical report analyzer for extracting entities, simplification, and classification using domain-specific BERT models. |
+| [Assessment-Recommender-System](https://github.com/SharmaKanishkaa/Assessment-Recommender-System)                                           | Recommendation + RAG        | LangChain, FAISS, OpenAI                             | Recommends top SHL assessments using job descriptions or user queries via a RAG pipeline.                              |
+| [Film-Verse](https://github.com/SharmaKanishkaa/Film-Verse)                                                                                 | GenAI-based Recommendations | Streamlit, Python, NLP                               | Personalized movie recommendation engine built for cinephiles using deep learning techniques.                          |
+
 ---
 
+### 📊 **Data Science & Analytics**
 
-### 📂 **Natural Language Processing (NLP)**:
+| Project Link                                                                                                        | Tools                          | Description                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------ |
+| [Paris 2024 Olympics Data Analysis](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis)           | Power BI                       | Interactive dashboard analyzing country-wise Olympic performance, medals, and athlete trends.    |
+| [Employee-Data-Management-System](https://github.com/SharmaKanishkaa/Employee-Data-Management-System)               | AWS, Pyspark, Kafka, Grafana  | End-to-end AWS data pipeline automating employee data ingestion, transformation, and monitoring. |
+| [Data Science for Business Case Studies](https://github.com/SharmaKanishkaa/Data-Science-for-Business-Case-Studies) | Python, Jupyter                | Solves business cases using classification, forecasting, and regression methodologies.           |
 
-| Project Link | Area | Library | Project Description |
-|--------------|------|---------|---------------------|
-| [Multilingual Toxic Comment Classification Model](https://github.com/SharmaKanishkaa/Multilingual-Toxic-Comment-Classification-Model) | Classification | Hugging Face Transformers | Built a multilingual model using BERT to classify toxic comments in multiple languages with an accuracy of 91%. |
-| [Analyzing Spooky Authors with NLP](https://github.com/SharmaKanishkaa/Analyzing-Spooky-Authors-with-NLP) | Text Classification | scikit-learn, pandas, NLTK | Performed topic modeling and text analysis on spooky authors' work, using TF-IDF and Naive Bayes for classification. |
-| [MedicReport: Gen-AI Powered Medical Report Analyzer](https://github.com/SharmaKanishkaa/MedicReport) | Text Analysis, NLP | BioBERT, ClinicalBERT, SciBERT | Developed a medical report analysis tool using multiple BERT models (BioBERT, ClinicalBERT, SciBERT) for entity recognition, simplification, and classification of medical reports. |
 ---
 
+### ⚙️ **Machine Learning Projects**
 
-### 📂 **Dashboard**:
+| Project Link                                                                                                                           | Area           | Libraries           | Description                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------- | ---------------------------------------------------------------------------- |
+| [HR Analytics with Decision Trees & Random Forest](https://github.com/SharmaKanishkaa/HR-Analytics-with-Decision-Trees-Random-Forest-) | Classification | scikit-learn        | Predicts employee attrition with 85% accuracy using tree-based classifiers.  |
+| [Vehicle Price Prediction](https://github.com/SharmaKanishkaa/Vehicle-Price-Prediction-with-Linear-Regression-and-Regularization-)     | Regression     | scikit-learn        | Predicts car prices using linear regression with Lasso/Ridge regularization. |
+| [Customer Segmentation](https://github.com/SharmaKanishkaa/Customer-Segmentation-Using-Unsupervised-Clustering)                        | Clustering     | scikit-learn        | Segments customers using K-Means, DBSCAN, and hierarchical clustering.       |
+| [Cancer Prediction from KNN to ANN](https://github.com/SharmaKanishkaa/Cancer-Prediction-from-KNN-to-ANN)                              | Classification | scikit-learn, keras | Compared KNN, Logistic Regression, and ANN for cancer prediction.            |
 
-| Project Link | Tools | Project Description |
-|--------------|-------|---------------------|
-| [Paris 2024 Olympics Data Analysis](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis) | Power BI | Created an interactive Power BI dashboard visualizing Olympic data, such as medal distribution, performance analysis, and country comparisons. |
-| [Human Resource Attrition Analysis (EDA)](https://github.com/SharmaKanishkaa/HR-Analytics-with-Decision-Trees-Random-Forest-) | Power BI | Conducted an analysis of HR data to identify factors influencing employee attrition, presenting the insights in Tableau. |
 ---
 
+### 🧠 **Deep Learning**
 
-### 📂 **Completed Courses and Certifications**
-- **AI4ICPS Certificate Programme** by IIT Kharagpur on TCS iON  
-- **IBM Data Science** by IBM on Coursera  
-- **Machine Learning** by Stanford University & DeepLearning.AI on Coursera  
-- **Neural Networks and Deep Learning** by DeepLearning.AI on Coursera  
-- **TensorFlow 2.0: Deep Learning and Artificial Intelligence** on Udemy  
-- **Python for Machine Learning & Data Science Masterclass** on Udemy  
-- **The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert** on Udemy  
-- **Time Series Analysis and Forecasting with Python** on Udemy  
-- **Recommender Systems and Deep Learning in Python** on Udemy  
-- **Microsoft Power BI Desktop for Business Intelligence** on Udemy  
-- **A Deep Understanding of Deep Learning (with Python Intro)** on Udemy  
+| Project Link                                                                                                   | Area                 | Libraries          | Description                                                             |
+| -------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------ | ----------------------------------------------------------------------- |
+| [Tomato Leaf Disease Prediction](https://github.com/SharmaKanishkaa/Tomato-Leaf-Disease-Prediction-using-CNN)  | Image Classification | TensorFlow         | CNN-based classifier for tomato leaf diseases with data augmentation.   |
+| [Stock Market Forecasting](https://github.com/SharmaKanishkaa/Stock-Market-Analysis-and-Prediction-using-LSTM) | Time Series          | LSTM               | Predicts stock prices using LSTM for sequence modeling.                 |
+| [Weather Prediction](https://github.com/SharmaKanishkaa/Weather-Prediction-using-RNN)                          | Time Series          | RNN                | Models historical weather data for forecasting.                         |
+| [Prophet Forecasting Web App](https://github.com/SharmaKanishkaa/Prophet-Forecasting-Application)              | Forecasting          | Prophet, Streamlit | Web app for uploading time series data and getting real-time forecasts. |
+
+---
+
+### 🗣️ **Natural Language Processing (NLP)**
+
+| Project Link                                                                                                                    | Area                | Libraries          | Description                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------ | --------------------------------------------------------------------------------- |
+| [Multilingual Toxic Comment Classification](https://github.com/SharmaKanishkaa/Multilingual-Toxic-Comment-Classification-Model) | Text Classification | Transformers       | Detects toxic comments across languages using multilingual BERT.                  |
+| [Hinglish-to-Hindi Neural Translator](https://github.com/SharmaKanishkaa/Hinglish-to-Hindi-Neural-Translator)                   | Translation         | PyTorch            | Transformer-based model translating romanized Hindi (Hinglish) to native script.  |
+| [Analyzing Spooky Authors](https://github.com/SharmaKanishkaa/Analyzing-Spooky-Authors-with-NLP)                                | Text Classification | scikit-learn, NLTK | Text mining and classification of horror literature using TF-IDF and Naive Bayes. |
+
+---
+
+### 📈 **Dashboards**
+
+| Project Link                                                                                           | Tool     | Description                                                                 |
+| ------------------------------------------------------------------------------------------------------ | -------- | --------------------------------------------------------------------------- |
+| [Olympics Dashboard](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis)             | Power BI | Drill-down dashboard for medals, athlete demographics, and country trends.  |
+| [HR Attrition EDA](https://github.com/SharmaKanishkaa/HR-Analytics-with-Decision-Trees-Random-Forest-) | Power BI | Visual exploration of HR data for attrition patterns and employee insights. |
+
+---
+
+### 📜 **Courses and Certifications**
+
+| Course Title                                                                                                                                           | Platform  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| [AI4ICPS Certificate Programme by IIT Kharagpur](https://drive.google.com/drive/folders/1oimwoz7k9GtjYfGM6MMzEZB06NWqA_TD)                             | TCS iON   |
+| [SQL Fundamentals](https://drive.google.com/drive/folders/1oimwoz7k9GtjYfGM6MMzEZB06NWqA_TD)                                                           | Dataquest |
+| [IBM Data Science Professional Certificate](https://drive.google.com/file/d/1bprY76tzEwu07MdLVDDUPD1Lghfro2yO/view?usp=sharing)                        | Coursera  |
+| [Machine Learning by Stanford University & DeepLearning.AI](https://drive.google.com/file/d/1VoRuuKV8FFWFUMfwTXYXpUUUkfygwO8D/view?usp=sharing)        | Coursera  |
+| [Neural Networks and Deep Learning by DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/Neural-Networks-and-Deep-Learning) | Coursera  |
+| [TensorFlow 2.0: Deep Learning and Artificial Intelligence](https://drive.google.com/file/d/1t1zc2pD8KP_64OWqpqugQAjwPnHGvFLu/view?usp=sharing)        | Udemy     |
+| [Python for Machine Learning & Data Science Masterclass](https://drive.google.com/file/d/1Djy_rhD3ur3xCJEWVaR2Ko2sHvZmPg-l/view?usp=sharing)           | Udemy     |
+| [Recommender Systems and Deep Learning in Python](https://drive.google.com/file/d/1GhvVgO7u7NP2I4xXJ__WgZlseELSj7Uq/view?usp=sharing)                  | Udemy     |
+| [Microsoft Power BI Desktop for Business Intelligence](https://drive.google.com/drive/folders/1oimwoz7k9GtjYfGM6MMzEZB06NWqA_TD)                       | Udemy     |
+| [A Deep Understanding of Deep Learning](https://drive.google.com/file/d/1AQ0uOloDhp7RyHlOni1qC1bC0Fn97di9/view?usp=sharing)                            | Udemy     |
