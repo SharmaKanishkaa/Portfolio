@@ -22,7 +22,7 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 | [LLM-Powered-Booking-Analytics-QA-System](https://github.com/SharmaKanishkaa/LLM-Powered-Booking-Analytics-QA-System)                       | Analytics + RAG             | Python, LangChain, FAISS, HuggingFace                | A retrieval-augmented QA system that uses LLMs to answer natural language queries on hotel booking data.               |
 | [MedicReport](https://github.com/SharmaKanishkaa/MedicReport) *(Private)*                                                                   | Medical GenAI               | BioBERT, ClinicalBERT, Pinecone, LLaMA               | Medical report analyzer for extracting entities, simplification, and classification using domain-specific BERT models. |
 | [Assessment-Recommender-System](https://github.com/SharmaKanishkaa/Assessment-Recommender-System)                                           | Recommendation + RAG        | LangChain, FAISS, OpenAI                             | Recommends top SHL assessments using job descriptions or user queries via a RAG pipeline.                              |
-| [Film-Verse](https://github.com/SharmaKanishkaa/Film-Verse)                                                                                 | GenAI-based Recommendations | Streamlit, Python, NLP                               | Personalized movie recommendation engine built for cinephiles using deep learning techniques.                          |
+| [Film-Verse](https://github.com/SharmaKanishkaa/Film-Verse)                                                                                 | GenAI-based Recommendations | Streamlit, Python, NLP, Power BI                     | Personalized movie recommendation engine built for cinephiles using deep learning techniques.                          |
 
 ---
 
@@ -73,7 +73,8 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 | Project Link                                                                                           | Tool     | Description                                                                 |
 | ------------------------------------------------------------------------------------------------------ | -------- | --------------------------------------------------------------------------- |
 | [Olympics Dashboard](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis)             | Power BI | Drill-down dashboard for medals, athlete demographics, and country trends.  |
-| [HR Attrition EDA](https://github.com/SharmaKanishkaa/HR-Analytics-with-Decision-Trees-Random-Forest-) | Power BI | Visual exploration of HR data for attrition patterns and employee insights. |
+| [Film Verse](https://github.com/SharmaKanishkaa/Film-Verse)                                            | Power BI | Visual exploration of movies data for  patterns and insights.               |
+| [Employee-Data-Management-System](https://github.com/SharmaKanishkaa/Employee-Data-Management-System)  | Grafana  | Dasboard of employee data for attrition patterns and employee insights.     |
 
 ---
 ### 📜 **Courses and Certifications**
