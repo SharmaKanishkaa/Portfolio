@@ -2,10 +2,10 @@
 
 Hi there! This documentation is a snapshot of my projects in the data and AI space, showcasing my skills across data engineering, machine learning, NLP, and dashboarding.
 
-**📚 Table of Contents**:
+**Table of Contents**:
 
 * AI & GenAI Projects
-* Data Science & Analytics
+* Data Science, Engineering & Analytics
 * Machine Learning Projects
 * Deep Learning
 * Natural Language Processing (NLP)
@@ -14,7 +14,7 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 
 ---
 
-### 🤖 **AI & GenAI Projects**
+### **AI & GenAI Projects**
 
 | Project Link                                                                                                                                | Area                        | Tech Stack                                           | Description                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 
 ---
 
-### 📊 **Data Science & Analytics**
+### **Data Science, Engineering & Analytics**
 
 | Project Link                                                                                                        | Tools                          | Description                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------ |
@@ -36,7 +36,7 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 
 ---
 
-### ⚙️ **Machine Learning Projects**
+### **Machine Learning Projects**
 
 | Project Link                                                                                                                           | Area           | Libraries           | Description                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------- | ---------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 
 ---
 
-### 🧠 **Deep Learning**
+### **Deep Learning**
 
 | Project Link                                                                                                   | Area                 | Libraries          | Description                                                             |
 | -------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------ | ----------------------------------------------------------------------- |
@@ -58,7 +58,7 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 
 ---
 
-### 🗣️ **Natural Language Processing (NLP)**
+### **Natural Language Processing (NLP)**
 
 | Project Link                                                                                                                    | Area                | Libraries          | Description                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------ | --------------------------------------------------------------------------------- |
@@ -68,7 +68,7 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 
 ---
 
-### 📈 **Dashboards**
+### **Dashboards**
 
 | Project Link                                                                                           | Tool     | Description                                                                 |
 | ------------------------------------------------------------------------------------------------------ | -------- | --------------------------------------------------------------------------- |
@@ -77,7 +77,7 @@ Hi there! This documentation is a snapshot of my projects in the data and AI spa
 | [Employee-Data-Management-System](https://github.com/SharmaKanishkaa/Employee-Data-Management-System)  | Grafana  | Dasboard of employee data for attrition patterns and employee insights.     |
 
 ---
-### 📜 **Courses and Certifications**
+### **Courses and Certifications**
 
 | Course Title                                                                                                                                           | Platform  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
